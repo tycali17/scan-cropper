@@ -13,7 +13,7 @@ For each file it processes, it should output 3 cropped and oriented photos from 
 ## Requirements
 * Python 3
 * numpy         `pip install numpy`
-* python-opencv `pip install python-opencv`
+* opencv-python `pip install opencv-python`
 
 ## Usage
 `python scan_cropper.py` will run it on pictures in the current directory, putting results in an `output` directory.
